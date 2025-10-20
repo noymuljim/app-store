@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.ibb.co.com/nsjzh2D1/demo-app-1.webp",
+    "title": "Productivity Pro",
+    "companyName": "FocusLabs Inc.",
+    "id": 1,
+    "description": "Productivity Pro helps you organize your daily tasks, track progress, and manage your time efficiently with intelligent reminders, analytics, and AI-powered insights that keep you focused and motivated every day.",
+    "size": 58,
+    "reviews": 12874,
+    "ratingAvg": 4.6,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 530 },
+      { "name": "2 star", "count": 860 },
+      { "name": "3 star", "count": 1220 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 7144 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYpVZtJ2/demo-app-2.webp",
+    "title": "FitPal",
+    "companyName": "ActiveMind Studio",
+    "id": 2,
+    "description": "FitPal is your ultimate fitness companion, offering custom workout plans, calorie tracking, and progress analytics to help you achieve your health goals and stay motivated throughout your fitness journey.",
+    "size": 92,
+    "reviews": 9482,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2890 },
+      { "name": "5 star", "count": 4282 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q7CBTwQM/demo-app-6.webp",
+    "title": "TravelBuddy",
+    "companyName": "Nomad Works",
+    "id": 3,
+    "description": "TravelBuddy helps you plan perfect trips by finding destinations, building itineraries, and connecting with local guides, ensuring every adventure is smooth, affordable, and full of unforgettable experiences.",
+    "size": 77,
+    "reviews": 15762,
+    "ratingAvg": 4.8,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 610 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2730 },
+      { "name": "5 star", "count": 9112 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ld9XHWNK/demo-app-5.webp",
+    "title": "MusicFlow",
+    "companyName": "EchoWave Media",
+    "id": 4,
+    "description": "MusicFlow delivers a seamless streaming experience with intelligent recommendations, curated playlists, and adaptive sound quality to match your mood, network speed, and preferred listening style.",
+    "size": 104,
+    "reviews": 22450,
+    "ratingAvg": 4.3,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1930 },
+      { "name": "2 star", "count": 2850 },
+      { "name": "3 star", "count": 4010 },
+      { "name": "4 star", "count": 5700 },
+      { "name": "5 star", "count": 7960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4Rxt9xc9/demo-app-4.webp",
+    "title": "SnapChef",
+    "companyName": "KitchenAI Labs",
+    "id": 5,
+    "description": "SnapChef uses AI to turn photos of your ingredients into delicious recipes. It suggests meal ideas, step-by-step guides, and nutritional information, helping you cook smarter and reduce food waste.",
+    "size": 65,
+    "reviews": 5321,
+    "ratingAvg": 4.5,
+    "downloads": 82,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 2751 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Wvw2GXLh/demo-app-3.webp",
+    "title": "Langly",
+    "companyName": "PolyGlot Apps",
+    "id": 6,
+    "description": "Langly makes language learning fun and interactive with gamified lessons, speech recognition, and real-time feedback. Practice daily to build fluency and confidence in over 20 different languages.",
+    "size": 89,
+    "reviews": 17689,
+    "ratingAvg": 4.7,
+    "downloads": 41,
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 820 },
+      { "name": "3 star", "count": 1520 },
+      { "name": "4 star", "count": 3580 },
+      { "name": "5 star", "count": 9259 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LKL78hc/512x512bb.jpg",
+    "title": "PocketFinance",
+    "companyName": "SmartMoney Ltd.",
+    "id": 7,
+    "description": "PocketFinance helps you take control of your money with budgeting tools, expense tracking, and financial insights. Visualize your spending patterns and set savings goals with ease and confidence.",
+    "size": 73,
+    "reviews": 8420,
+    "ratingAvg": 4.2,
+    "downloads": 29,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1890 },
+      { "name": "4 star", "count": 2420 },
+      { "name": "5 star", "count": 2540 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nskD10yb/unnamed.png",
+    "title": "ZenFocus",
+    "companyName": "MindWave Studios",
+    "id": 8,
+    "description": "ZenFocus combines meditation, breathing exercises, and focus timers to improve productivity and reduce stress. Stay centered and calm throughout the day with personalized mindfulness sessions.",
+    "size": 56,
+    "reviews": 12980,
+    "ratingAvg": 4.9,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 1620 },
+      { "name": "5 star", "count": 10170 }
+    ]
+  }
+]
