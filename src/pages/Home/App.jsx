@@ -1,11 +1,15 @@
 import React from 'react';
+import { Link } from 'react-router';
 
 const App = ({ singleApp }) => {
-    console.log(singleApp)
+   // console.log(singleApp)
 
-    const { image,title, downloads, ratingAvg } = singleApp
+    const { id,image,title, downloads, ratingAvg } = singleApp
     return (
-        <div className='p-3 bg-white rounded'>
+
+        
+        <Link to={`/appDetails/${id}`}>
+            <div className='p-3 bg-white rounded'>
             <div>
                 <img className='mx-auto rounded' src={image} alt="" />
             </div>
@@ -23,6 +27,7 @@ const App = ({ singleApp }) => {
                 
             </div>
         </div>
+        </Link>
     );
 };
 

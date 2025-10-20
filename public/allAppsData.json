@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/nsjzh2D1/demo-app-1.webp",
+    "title": "Productivity Pro",
+    "companyName": "FocusLabs Inc.",
+    "id": 1,
+    "description": "Productivity Pro helps you organize your daily tasks, track progress, and manage your time efficiently with intelligent reminders, analytics, and AI-powered insights that keep you focused and motivated every day.",
+    "size": 58,
+    "reviews": 12874,
+    "ratingAvg": 4.6,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 530 },
+      { "name": "2 star", "count": 860 },
+      { "name": "3 star", "count": 1220 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 7144 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fYpVZtJ2/demo-app-2.webp",
+    "title": "FitPal",
+    "companyName": "ActiveMind Studio",
+    "id": 2,
+    "description": "FitPal is your ultimate fitness companion, offering custom workout plans, calorie tracking, and progress analytics to help you achieve your health goals and stay motivated throughout your fitness journey.",
+    "size": 92,
+    "reviews": 9482,
+    "ratingAvg": 4.4,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2890 },
+      { "name": "5 star", "count": 4282 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Q7CBTwQM/demo-app-6.webp",
+    "title": "TravelBuddy",
+    "companyName": "Nomad Works",
+    "id": 3,
+    "description": "TravelBuddy helps you plan perfect trips by finding destinations, building itineraries, and connecting with local guides, ensuring every adventure is smooth, affordable, and full of unforgettable experiences.",
+    "size": 77,
+    "reviews": 15762,
+    "ratingAvg": 4.8,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 610 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2730 },
+      { "name": "5 star", "count": 9112 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ld9XHWNK/demo-app-5.webp",
+    "title": "MusicFlow",
+    "companyName": "EchoWave Media",
+    "id": 4,
+    "description": "MusicFlow delivers a seamless streaming experience with intelligent recommendations, curated playlists, and adaptive sound quality to match your mood, network speed, and preferred listening style.",
+    "size": 104,
+    "reviews": 22450,
+    "ratingAvg": 4.3,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 1930 },
+      { "name": "2 star", "count": 2850 },
+      { "name": "3 star", "count": 4010 },
+      { "name": "4 star", "count": 5700 },
+      { "name": "5 star", "count": 7960 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/4Rxt9xc9/demo-app-4.webp",
+    "title": "SnapChef",
+    "companyName": "KitchenAI Labs",
+    "id": 5,
+    "description": "SnapChef uses AI to turn photos of your ingredients into delicious recipes. It suggests meal ideas, step-by-step guides, and nutritional information, helping you cook smarter and reduce food waste.",
+    "size": 65,
+    "reviews": 5321,
+    "ratingAvg": 4.5,
+    "downloads": 82,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 2751 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Wvw2GXLh/demo-app-3.webp",
+    "title": "Langly",
+    "companyName": "PolyGlot Apps",
+    "id": 6,
+    "description": "Langly makes language learning fun and interactive with gamified lessons, speech recognition, and real-time feedback. Practice daily to build fluency and confidence in over 20 different languages.",
+    "size": 89,
+    "reviews": 17689,
+    "ratingAvg": 4.7,
+    "downloads": 41,
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 820 },
+      { "name": "3 star", "count": 1520 },
+      { "name": "4 star", "count": 3580 },
+      { "name": "5 star", "count": 9259 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/k6kXgVMY/Task-Scheduler-App-App-Icon.png",
+    "title": "PocketFinance",
+    "companyName": "SmartMoney Ltd.",
+    "id": 7,
+    "description": "PocketFinance helps you take control of your money with budgeting tools, expense tracking, and financial insights. Visualize your spending patterns and set savings goals with ease and confidence.",
+    "size": 73,
+    "reviews": 8420,
+    "ratingAvg": 4.2,
+    "downloads": 29,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1890 },
+      { "name": "4 star", "count": 2420 },
+      { "name": "5 star", "count": 2540 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xqZYDCYT/images.png",
+    "title": "ZenFocus",
+    "companyName": "MindWave Studios",
+    "id": 8,
+    "description": "ZenFocus combines meditation, breathing exercises, and focus timers to improve productivity and reduce stress. Stay centered and calm throughout the day with personalized mindfulness sessions.",
+    "size": 56,
+    "reviews": 12980,
+    "ratingAvg": 4.9,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 1620 },
+      { "name": "5 star", "count": 10170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ynDyRFPZ/images.jpg",
+    "title": "TaskMate",
+    "companyName": "OrganizeHub",
+    "id": 9,
+    "description": "TaskMate helps you stay organized with advanced task management, team collaboration, and deadline tracking. Boost your productivity and manage projects seamlessly with smart reminders and analytics.",
+    "size": 68,
+    "reviews": 10320,
+    "ratingAvg": 4.5,
+    "downloads": 17,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 610 },
+      { "name": "3 star", "count": 970 },
+      { "name": "4 star", "count": 2880 },
+      { "name": "5 star", "count": 5520 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/79Bhc75/images-2.jpg",
+    "title": "EduVerse",
+    "companyName": "Learnify Labs",
+    "id": 10,
+    "description": "EduVerse is an interactive learning platform that offers online courses, video tutorials, and quizzes to help you gain new skills and knowledge in various fields from top educators worldwide.",
+    "size": 101,
+    "reviews": 9420,
+    "ratingAvg": 4.6,
+    "downloads": 31,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 680 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3020 },
+      { "name": "5 star", "count": 5200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pvBcgZCf/images-1.png",
+    "title": "MindSketch",
+    "companyName": "Creatify Studio",
+    "id": 11,
+    "description": "MindSketch empowers designers and thinkers to brainstorm ideas visually through an intuitive sketching tool that transforms rough concepts into polished wireframes and prototypes instantly.",
+    "size": 84,
+    "reviews": 7280,
+    "ratingAvg": 4.3,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 440 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/43HqhZX/549932dff2efe-thumb900.webp",
+    "title": "FitTrack",
+    "companyName": "HealthSync Co.",
+    "id": 12,
+    "description": "FitTrack helps you monitor your fitness goals by tracking heart rate, workouts, and calories burned. Get personalized insights and stay on track with your daily wellness routine effortlessly.",
+    "size": 79,
+    "reviews": 6542,
+    "ratingAvg": 4.4,
+    "downloads": 14,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 810 },
+      { "name": "4 star", "count": 2090 },
+      { "name": "5 star", "count": 2832 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nqjZPSXB/36e386ac93b598be4ed92b22ec2e2197.jpg",
+    "title": "NoteFlow",
+    "companyName": "SyncPad Ltd.",
+    "id": 13,
+    "description": "NoteFlow lets you capture thoughts, organize notes, and sync them across devices with cloud storage. Perfect for students, professionals, and creatives who love to keep ideas structured and accessible.",
+    "size": 61,
+    "reviews": 8341,
+    "ratingAvg": 4.7,
+    "downloads": 19,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4381 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5Wt1ZWNn/Document-scheduled-tasks-icon.png",
+    "title": "CryptoSafe",
+    "companyName": "FinShield Inc.",
+    "id": 14,
+    "description": "CryptoSafe provides a secure wallet and live market insights for managing your digital assets. Buy, sell, and track cryptocurrencies safely with real-time analytics and data encryption.",
+    "size": 95,
+    "reviews": 11780,
+    "ratingAvg": 4.6,
+    "downloads": 42,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1020 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/9HWHj159/e61a9507-2614-4c6d-b125-d01e3b9c14a1.jpg",
+    "title": "Calmify",
+    "companyName": "WellnessWave",
+    "id": 15,
+    "description": "Calmify helps you unwind with guided meditations, sleep stories, and relaxing sounds. Reduce anxiety and enhance your focus through scientifically designed mindfulness sessions for all ages.",
+    "size": 54,
+    "reviews": 10234,
+    "ratingAvg": 4.8,
+    "downloads": 36,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 370 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2010 },
+      { "name": "5 star", "count": 8964 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VyYkZk6/images-1.jpg",
+    "title": "EventEase",
+    "companyName": "PlanRight",
+    "id": 16,
+    "description": "EventEase makes event planning simple by allowing you to organize invitations, schedules, and budgets all in one place. Ideal for parties, meetings, and large-scale professional events.",
+    "size": 80,
+    "reviews": 6920,
+    "ratingAvg": 4.3,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 2050 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/fVnqnPhf/475497.png",
+    "title": "Weatherly",
+    "companyName": "ClimaCore",
+    "id": 17,
+    "description": "Weatherly delivers precise forecasts, storm alerts, and real-time radar updates. Stay ahead of the weather with accurate predictions and customizable alerts for your region.",
+    "size": 69,
+    "reviews": 9580,
+    "ratingAvg": 4.5,
+    "downloads": 28,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 2750 },
+      { "name": "5 star", "count": 4940 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZjL9yzF/v1p3ve242yha1.jpg",
+    "title": "ShopSmart",
+    "companyName": "RetailEdge",
+    "id": 18,
+    "description": "ShopSmart brings exclusive deals and smart shopping tools to help you compare prices, track discounts, and manage your wishlist for online and offline stores efficiently.",
+    "size": 76,
+    "reviews": 11200,
+    "ratingAvg": 4.4,
+    "downloads": 33,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 1210 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5760 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ld9XHWNK/demo-app-5.webp",
+    "title": "StreamBox",
+    "companyName": "MediaSphere",
+    "id": 19,
+    "description": "StreamBox lets you watch and organize your favorite movies, TV shows, and documentaries in high definition. Enjoy seamless streaming with smart recommendations and offline download options.",
+    "size": 120,
+    "reviews": 18750,
+    "ratingAvg": 4.7,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 630 },
+      { "name": "2 star", "count": 940 },
+      { "name": "3 star", "count": 1310 },
+      { "name": "4 star", "count": 3880 },
+      { "name": "5 star", "count": 9990 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nsjzh2D1/demo-app-1.webp",
+    "title": "DocuSync",
+    "companyName": "FileNet Systems",
+    "id": 20,
+    "description": "DocuSync simplifies document sharing and team collaboration with secure cloud storage, real-time editing, and version tracking. Perfect for remote work and corporate file management.",
+    "size": 86,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": 39,
+    "ratings": [
+      { "name": "1 star", "count": 440 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 3150 },
+      { "name": "5 star", "count": 7970 }
+    ]
+  }
+]
