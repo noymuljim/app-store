@@ -35,27 +35,27 @@ const Home = () => {
                 <div className="relative left-1/2 right-1/2 -mx-[50vw] w-screen bg-gradient-to-r from-[#632EE3] to-[#9F62F2] py-14 flex items-center justify-center text-center">
 
                     <div>
-                        <h1 className="text-white text-3xl font-bold mb-10">Trusted by Millions, Built for You</h1>
+                        <h1 className="text-white text-3xl font-semibold mb-10">Trusted by Millions, Built for You</h1>
 
 
                         {/* stat */}
                         <div className="stats stats-vertical lg:stats-horizontal shadow">
                             <div className="stat">
-                                <div className="stat-title">Downloads</div>
-                                <div className="stat-value">31K</div>
-                                <div className="stat-desc">Jan 1st - Feb 1st</div>
+                                <div className="stat-title text-white">Total Downloads</div>
+                                <div className="stat-value  text-white">29.6M</div>
+                                <div className="stat-desc  text-white">21% more than last month</div>
                             </div>
 
                             <div className="stat">
-                                <div className="stat-title">New Users</div>
-                                <div className="stat-value">4,200</div>
-                                <div className="stat-desc">↗︎ 400 (22%)</div>
+                               <div className="stat-title text-white">Total Reviews</div>
+                                <div className="stat-value  text-white">906K</div>
+                                <div className="stat-desc  text-white">46% more than last month</div>
                             </div>
 
                             <div className="stat">
-                                <div className="stat-title">New Registers</div>
-                                <div className="stat-value">1,200</div>
-                                <div className="stat-desc">↘︎ 90 (14%)</div>
+                                <div className="stat-title text-white">Active Apps</div>
+                                <div className="stat-value  text-white">132+</div>
+                                <div className="stat-desc  text-white">31 more will Launch</div>
                             </div>
                         </div>
                     </div>

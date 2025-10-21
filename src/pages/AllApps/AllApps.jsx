@@ -15,14 +15,14 @@ const AllApps = () => {
             </div>
             
         </div>
-        <div className='flex justify-between'>
-                <h1 className='font-semibold text-[24px]'>({data.length}) Apps Found</h1>
-                <input type="search" placeholder='search here' name="" id="" />
+        <div className='flex flex-col md:flex-row justify-center md:justify-between mb-6'>
+                <h1 className='font-semibold text-[24px] text-center md:text-left'>({data.length}) Apps Found</h1>
+                <input className='p-1 border rounded-3xl  ' type="search"  placeholder='search here' name="" id="" />
             </div>
 
             
             
-             <Suspense fallback={<span>loading...</span>}>
+             <Suspense>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-[24px]'>
                     {
                         data.map((singleApp) => <App key={singleApp.id} singleApp={singleApp}></App>)

@@ -3,9 +3,18 @@ import { useLoaderData, useParams } from 'react-router';
 import download from '../../assets/icon-downloads.png'
 import rating from '../../assets/icon-ratings.png'
 import review from '../../assets/icon-review.png'
-import { Bar, CartesianGrid, ComposedChart, Legend, Line, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { Bar, ComposedChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import { addToStoredDB } from '../../Utilities/addToDB';
+import { useState } from 'react';
+import { toast, ToastContainer } from 'react-toastify';
+
+
+
+
 
 const AppDetails = () => {
+
+    const [isInstalled, setisInstalled] = useState(false)
     const { id } = useParams()
     // console.log(typeof id)
     const appId = parseInt(id)
@@ -16,14 +25,36 @@ const AppDetails = () => {
     const singleApp = data.find(app => app.id === appId)
     //console.log(singleApp)
 
-    const { image, title, companyName, description, reviews, downloads, ratingAvg, ratings } = singleApp
+    const { image, title, size, companyName, description, reviews, downloads, ratingAvg, ratings } = singleApp
+
+
+
+    // local storage
+    const handleInstallNow = id => {
+        //store with id
+        //where to store
+        //array
+        //check if book already exist
+        //not exist? push in array
+
+
+        toast('Successfully Installed')
+
+       
+        addToStoredDB(id)
+    }
+
+
+
+
+
     return (
         <>
-            <div className='flex gap-5 py-10'>
+            <div className='flex flex-col items-center md:flex-row gap-5 py-10'>
                 <div className='bg-white'>
                     <img className='w-[300px] h-[300px]' src={image} alt="" />
                 </div>
-                <div>
+                <div className='flex flex-col items-center md:flex-col md:items-start'>
                     <div>
                         <h1 className='font-bold text-[32px]'>{title}</h1>
                         <p className='text-[#627382]'>Developed by <span className='text-[#632EE3]'>{companyName}</span></p>
@@ -52,9 +83,29 @@ const AppDetails = () => {
                     </div>
                     {/* state end */}
                     <div>
-                        <button className='bg-[#00D390] text-[20px] font-semibold p-3  text-white rounded'>Install Now (291 MB)</button>
-                    </div>
+                        <button disabled={isInstalled}
+                            onClick={() => {
+                                handleInstallNow(id);
+                                setisInstalled(true);
+                            }}
+                            className='bg-[#00D390] text-[20px] font-semibold p-3 text-white rounded'
+                        >
+                            {isInstalled ? 'Installed' : 'Install Now'} ({size})
+                        </button>
 
+                    </div>
+                    <ToastContainer
+                        position="top-center"
+                        autoClose={5000}
+                        hideProgressBar={false}
+                        newestOnTop={false}
+                        closeOnClick={false}
+                        rtl={false}
+                        pauseOnFocusLoss
+                        draggable
+                        pauseOnHover
+                        theme="light"
+                    />
 
                 </div>
             </div>
