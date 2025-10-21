@@ -10,7 +10,7 @@ const HomeApps = ({ homeData }) => {
 
 
 
-            <Suspense fallback={<span>loading...</span>}>
+            <Suspense>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-[24px]'>
                     {
                         homeData.map((singleApp) => <App key={singleApp.id} singleApp={singleApp}></App>)
